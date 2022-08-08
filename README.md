@@ -25,7 +25,7 @@ To run the QAlloy build packaged with this artifact do the following:
 ```
 git clone https://github.com/pf7/QAlloy-Artifact.git
 cd QAlloy-Artifact/
-java -jar QAlloy.jar
+java -jar bin/QAlloy.jar
 ```
 
 ## Running Example
@@ -86,7 +86,7 @@ Thus, this assertion is considered valid in this setting.
 To experiment with the counterpart to the quantitative models written for the
 original Alloy, run the Alloy 5 provided with this artifact:
 ```
-java -jar Alloy-5.0.0.1.jar
+java -jar bin/Alloy-5.0.0.1.jar
 ```
 The examples are located in *benchmark/models/alloy/* instead, and they can be
 executed analogously QAlloy, with the properties being solved using SAT Solvers

@@ -5,7 +5,7 @@
 If the requirements are met, QAlloy should be immediately usable by executing
 the JAR provided in this artifact, as follows:
 ``` 
-java -jar QAlloy.jar
+java -jar bin/QAlloy.jar
 ```
 
 Otherwise, it can be built according to the instructions provided at https://github.com/pf7/QAlloy .
@@ -50,7 +50,7 @@ For commodity, a JAR of the Alloy 5 is also provided, which can be run analogous
 to execute the quantitative models' counterparts, located in *benchmark/models/**alloy**/*,
 suited to  be run in regular Alloy.
 ```
-java -jar Alloy-5.0.0.1.jar
+java -jar bin/Alloy-5.0.0.1.jar
 ```
 
 After opening Alloy, select ```Options > Solver > MiniSat``` if possible, as it was the
