@@ -1,0 +1,2 @@
+Alloy-5.0.0.1.jar filter=lfs diff=lfs merge=lfs -text
+QAlloy.jar filter=lfs diff=lfs merge=lfs -text
