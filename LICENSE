@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-----------------------------------------------------------------------------------
+
+To be noted that QAlloy integrates SMT Solvers which follow their own licenses,
+which should be respected when using them through QAlloy.
+
+- Z3: MIT License (https://github.com/Z3Prover/z3/blob/master/LICENSE.txt)
+- CVC4: BSD License (https://github.com/CVC4/CVC4-archived/blob/master/COPYING)
+- MathSAT: Copyrighted 2009-2020 by Fondazione Bruno Kessler, Trento, Italy,
+University of Trento, Italy, and others. (https://mathsat.fbk.eu/download.html)
+- Yices: GPLv3 License (https://github.com/SRI-CSL/yices2/blob/master/LICENSE.txt)

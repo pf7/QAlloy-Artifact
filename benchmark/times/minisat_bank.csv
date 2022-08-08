@@ -1,0 +1,49 @@
+Command, Response Time(ms)
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 10
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 17
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 11
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 12
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 11
+Run run$1 for 4 but 8 int /  exactly 2 Bank /  1 Order, 9
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 832
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 812
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 827
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 798
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 815
+Run run$2 for 4 but 10 int /  exactly 2 Bank /  1 Order, 799
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4287
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4408
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4252
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4446
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4384
+Check TotalCoinsPreserved for 3 but 8 int /  2 Bank, 4280
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15340
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15304
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15437
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15301
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15898
+Check TotalCoinsPreserved for 4 but 8 int /  2 Bank, 15332
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 51321
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 51702
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 51532
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 49931
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 51529
+Check TotalCoinsPreserved for 5 but 8 int /  2 Bank, 60407
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 3 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 10 int /  2 Bank, timeout

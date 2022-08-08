@@ -1,0 +1,25 @@
+Command, Response Time(ms)
+Run threeNodes for 4 but exactly 3 Node, 54
+Run threeNodes for 4 but exactly 3 Node, 51
+Run threeNodes for 4 but exactly 3 Node, 51
+Run threeNodes for 4 but exactly 3 Node, 55
+Run threeNodes for 4 but exactly 3 Node, 54
+Run threeNodes for 4 but exactly 3 Node, 56
+Check OutEqualsIn for 3, 48
+Check OutEqualsIn for 3, 53
+Check OutEqualsIn for 3, 53
+Check OutEqualsIn for 3, 46
+Check OutEqualsIn for 3, 48
+Check OutEqualsIn for 3, 44
+Check OutEqualsIn for 4, 99
+Check OutEqualsIn for 4, 98
+Check OutEqualsIn for 4, 145
+Check OutEqualsIn for 4, 124
+Check OutEqualsIn for 4, 95
+Check OutEqualsIn for 4, 130
+Check OutEqualsIn for 5, timeout
+Check OutEqualsIn for 5, timeout
+Check OutEqualsIn for 5, timeout
+Check OutEqualsIn for 5, timeout
+Check OutEqualsIn for 5, timeout
+Check OutEqualsIn for 5, timeout

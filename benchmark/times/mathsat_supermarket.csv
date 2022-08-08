@@ -1,0 +1,19 @@
+Command, Response Time(ms)
+Run run$1 for 3, 16
+Run run$1 for 3, 17
+Run run$1 for 3, 19
+Run run$1 for 3, 15
+Run run$1 for 3, 16
+Run run$1 for 3, 15
+Check hasMilk for 3 but 2 Bag, 28
+Check hasMilk for 3 but 2 Bag, 15
+Check hasMilk for 3 but 2 Bag, 17
+Check hasMilk for 3 but 2 Bag, 18
+Check hasMilk for 3 but 2 Bag, 18
+Check hasMilk for 3 but 2 Bag, 20
+Check hasNoMilk for 3 but 2 Bag, 52
+Check hasNoMilk for 3 but 2 Bag, 45
+Check hasNoMilk for 3 but 2 Bag, 40
+Check hasNoMilk for 3 but 2 Bag, 38
+Check hasNoMilk for 3 but 2 Bag, 39
+Check hasNoMilk for 3 but 2 Bag, 37

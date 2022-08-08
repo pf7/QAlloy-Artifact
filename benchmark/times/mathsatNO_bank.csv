@@ -1,0 +1,25 @@
+Command, Response Time(ms)
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 82
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 100
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 95
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 83
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 79
+Run run$1 for 4 but exactly 2 Bank /  1 Order, 75
+Check TotalCoinsPreserved for 3 but 2 Bank, 3152
+Check TotalCoinsPreserved for 3 but 2 Bank, 3015
+Check TotalCoinsPreserved for 3 but 2 Bank, 2981
+Check TotalCoinsPreserved for 3 but 2 Bank, 2978
+Check TotalCoinsPreserved for 3 but 2 Bank, 3010
+Check TotalCoinsPreserved for 3 but 2 Bank, 3016
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 4 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout
+Check TotalCoinsPreserved for 5 but 2 Bank, timeout

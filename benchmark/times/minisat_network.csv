@@ -1,0 +1,49 @@
+Command, Response Time(ms)
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 313
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 319
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 346
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 332
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 356
+Run threeNodes for 4 but 8 int /  exactly 3 Node, 341
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4222
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4426
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4604
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4306
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4358
+Run threeNodes for 4 but 10 int /  exactly 3 Node, 4560
+Check OutEqualsIn for 3 but 8 int, 1660
+Check OutEqualsIn for 3 but 8 int, 1676
+Check OutEqualsIn for 3 but 8 int, 1673
+Check OutEqualsIn for 3 but 8 int, 1661
+Check OutEqualsIn for 3 but 8 int, 1685
+Check OutEqualsIn for 3 but 8 int, 1662
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 4 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 5 but 8 int, timeout
+Check OutEqualsIn for 3 but 10 int, 3690
+Check OutEqualsIn for 3 but 10 int, 3703
+Check OutEqualsIn for 3 but 10 int, 3880
+Check OutEqualsIn for 3 but 10 int, 3684
+Check OutEqualsIn for 3 but 10 int, 3701
+Check OutEqualsIn for 3 but 10 int, 3758
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 4 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout
+Check OutEqualsIn for 5 but 10 int, timeout

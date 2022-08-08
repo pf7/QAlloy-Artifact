@@ -1,0 +1,37 @@
+Command, Response Time(ms)
+Run run$1 for 8 int, 248
+Run run$1 for 8 int, 243
+Run run$1 for 8 int, 262
+Run run$1 for 8 int, 254
+Run run$1 for 8 int, 256
+Run run$1 for 8 int, 256
+Run run$2 for 10 int, 2607
+Run run$2 for 10 int, 2550
+Run run$2 for 10 int, 2621
+Run run$2 for 10 int, 2633
+Run run$2 for 10 int, 2634
+Run run$2 for 10 int, 2867
+Check hasMilk for 3 but 8 int /  2 Bag, 226
+Check hasMilk for 3 but 8 int /  2 Bag, 228
+Check hasMilk for 3 but 8 int /  2 Bag, 224
+Check hasMilk for 3 but 8 int /  2 Bag, 230
+Check hasMilk for 3 but 8 int /  2 Bag, 226
+Check hasMilk for 3 but 8 int /  2 Bag, 222
+Check hasMilk for 3 but 10 int /  2 Bag, 3367
+Check hasMilk for 3 but 10 int /  2 Bag, 3376
+Check hasMilk for 3 but 10 int /  2 Bag, 3238
+Check hasMilk for 3 but 10 int /  2 Bag, 3266
+Check hasMilk for 3 but 10 int /  2 Bag, 3357
+Check hasMilk for 3 but 10 int /  2 Bag, 3217
+Check hasNoMilk for 3 but 8 int /  2 Bag, 190
+Check hasNoMilk for 3 but 8 int /  2 Bag, 198
+Check hasNoMilk for 3 but 8 int /  2 Bag, 197
+Check hasNoMilk for 3 but 8 int /  2 Bag, 189
+Check hasNoMilk for 3 but 8 int /  2 Bag, 189
+Check hasNoMilk for 3 but 8 int /  2 Bag, 197
+Check hasNoMilk for 3 but 10 int /  2 Bag, 2829
+Check hasNoMilk for 3 but 10 int /  2 Bag, 2797
+Check hasNoMilk for 3 but 10 int /  2 Bag, 3016
+Check hasNoMilk for 3 but 10 int /  2 Bag, 2778
+Check hasNoMilk for 3 but 10 int /  2 Bag, 2874
+Check hasNoMilk for 3 but 10 int /  2 Bag, 2884
