@@ -43,7 +43,7 @@ solving process.
 To do that, go to ```Options > SMT Solver``` and select one of ```CVC4```,
 ```Z3```, ```MathSAT```or ```Yices```.
 
-Next, verify in the property *"If a bag weights more than 30 Ounces, then it must contain Milk."*
+Next, verify the property *"If a bag weights more than 30 Ounces, then it must contain Milk."*
 encoded in QAlloy language as the ```hasMilk``` assertion.
 ``` 
 assert hasMilk {
@@ -89,7 +89,7 @@ original Alloy, run the Alloy 5 provided with this artifact:
 java -jar bin/Alloy-5.0.0.1.jar
 ```
 The examples are located in *benchmark/models/alloy/* instead, and they can be
-executed analogously QAlloy, with the properties being solved using SAT Solvers
+executed analogously to QAlloy, with the properties being solved using SAT Solvers
 instead.
 
 ## Benchmark

@@ -29,13 +29,13 @@ After performing the previous steps the QAlloy GUI should have appeared.
 
 One should be able to select one of the SMT Solvers provided to handle the
 solving process, by proceeding to ```Options > SMT Solver``` and choosing one of ```CVC4```,
-```Z3```, ```MathSAT```or ```Yices```.
+```Z3```, ```MathSAT```or ```Yices``` (```MathSAT``` will be selected by default).
 
-Finally, to check that QAlloy is able to run properly, considering opening one of the
+Finally, to check that QAlloy is able to run properly, consider opening one of the
 models provided, for instance, click the ```Open``` icon and then navigate to 
 the directory *benchmark/models/**qalloy**/* of this artifact, selecting the *supermarket.als*
 file.
-Then, either by pressing the ```Execute``` icon, which will run one of the commands
+Then, either by pressing the ```Execute``` icon, which will run one of the commands,
 or by running ```Execute > Execute all```, which will solve every command within this model.
 If, after executing all commands, on the right panel the results shown are:
 1. **Instance found.**
