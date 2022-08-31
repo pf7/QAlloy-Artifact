@@ -28,6 +28,12 @@ cd QAlloy-Artifact/
 java -jar bin/QAlloy.jar
 ```
 
+If the JARs provided are not properly downloaded during checkout,
+please ensure that *Git LFS* is installed beforehand.
+``` 
+sudo apt install git-lfs
+```
+
 ## Running Example
 
 After performing the previous steps the QAlloy GUI should have appeared.
